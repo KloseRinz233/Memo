@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="menu1">add</string>
+    <string name="menu2">delete</string>
+</resources>
